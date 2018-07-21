@@ -2,7 +2,7 @@
 @font-face {
 	font-family: 'GYIlsan';
 	font-weight: 200;
-    src: url('./Goyangilsan-L.eot'),
+	src: url('./Goyangilsan-L.eot'),
 	src: url('./Goyangilsan-L.woff') format('woff'),
-	   url('./Goyangilsan-L.ttf')  format('truetype');
+		url('./Goyangilsan-L.ttf')  format('truetype');
 }
