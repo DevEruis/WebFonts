@@ -1,8 +1,39 @@
+@font-face {
+	font-family: 'GYIlsan';
+	src: url('./Goyangilsan-L.eot'),
+	src: url('./Goyangilsan-L.eot?#iefix') format('embedded-opentype'),
+	url('./Goyangilsan-L.woff') format('woff'),
+	url('./Goyangilsan-L.ttf')  format('truetype');
+	font-weight: 200;
+	font-style: normal;
+}
 
 @font-face {
 	font-family: 'GYIlsan';
-	font-weight: 200;
 	src: url('./Goyangilsan-L.eot'),
-	src: url('./Goyangilsan-L.woff') format('woff'),
-		url('./Goyangilsan-L.ttf')  format('truetype');
+	src: url('./Goyangilsan-L.eot?#iefix') format('embedded-opentype'),
+	url('./Goyangilsan-L.woff') format('woff'),
+	url('./Goyangilsan-L.ttf')  format('truetype');
+	font-weight: 400;
+	font-style: bold;
+}
+
+@font-face {
+	font-family: 'GYIlsan';
+	src: url('./Goyangilsan-R.eot'),
+	src: url('./Goyangilsan-R.eot?#iefix') format('embedded-opentype'),
+	url('./Goyangilsan-R.woff') format('woff'),
+	url('./Goyangilsan-R.ttf')  format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'GYIlsan';
+	src: url('./Goyangilsan-R.eot'),
+	src: url('./Goyangilsan-R.eot?#iefix') format('embedded-opentype'),
+	url('./Goyangilsan-R.woff') format('woff'),
+	url('./Goyangilsan-R.ttf')  format('truetype');
+	font-weight: 800;
+	font-style: bold;
 }
