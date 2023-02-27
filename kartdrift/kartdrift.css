@@ -1,0 +1,24 @@
+
+@font-face {
+    font-family: 'KartDrift';
+    src: url('./kd-font-medium.woff') format('woff'),
+         url('./kd-font-medium.woff2') format('woff2');    
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'KartDrift';
+    src: url('./kd-font-bold.woff') format('woff'),
+         url('./kd-font-bold.woff2') format('woff2');    
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'KartDrift';
+    src: url('./kd-font-extra-bold.woff') format('woff'),
+         url('./kd-font-bold.woff2') format('woff2');    
+    font-weight: 700;
+    font-style: normal;
+}
